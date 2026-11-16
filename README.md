@@ -460,6 +460,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.worldvectorlogo.com/logos/thales-1.svg" height="14"/> [CAKM](https://github.com/sanyambassi/thales-cdsp-cakm-mcp-server) - MCP server for Thales CDSP CAKM integration, enabling secure key management, cryptographic operations, and compliance monitoring through AI assistants for Ms SQL and Oracle Databases.
 - <img src="https://cdn.worldvectorlogo.com/logos/thales-1.svg" height="14"/> [CRDP](https://github.com/sanyambassi/thales-cdsp-crdp-mcp-server) - MCP server for Thales CipherTrust Manager RestFul Data Protection service.
 - <img src="https://cdn.worldvectorlogo.com/logos/thales-1.svg" height="14"/> [CSM](https://github.com/sanyambassi/thales-cdsp-csm-mcp-server) - MCP server for Thales CipherTrust Secrets Management
+- <img src="https://cdn.simpleicons.org/python/3776AB" height="14"/> [StarShield Forensics](https://github.com/Ziqi/starshield-forensics) - Offline zero-dependency Python CLI and privacy-masked `stdio` MCP server (`starshield mcp`) for Chromium/Electron LevelDB `.log` carving, PNG/JPEG container inspection, and ISO banking IOC validation.
 
 <br />
 
